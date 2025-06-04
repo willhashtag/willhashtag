@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @willhashtag
+- 👋 Hi, I’m Will
 - 💞️ I love software
 
 <!---
